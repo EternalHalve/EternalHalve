@@ -1,10 +1,10 @@
-<h1 align="center"><b>B L U E Y A M</b></h1>
+<h1 align="center"><b>H A L V E</b></h1>
 <p align="center"><i>"Individuality is a lonely path. I'm just walking it."</i></p>
 
 ---
 
 <p align="center">
-    <strong>Sophomore // Indonesia // CS</strong>
+    <strong>Sophomore // Indonesia // Computer Science</strong>
 </p>
 
 <p align="center">
