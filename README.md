@@ -52,7 +52,7 @@ Games:
 ### Live Status
 
 <p align="center">
-    <img src="https://lanyard.cnrad.dev/api/1482235322510217257?bg=1&animated=true&borderRadius=10px&idleMessage=Silence..." width="400"/>
+    <img src="https://lanyard.cnrad.dev/api/1482684099582885898?bg=1&animated=true&borderRadius=10px&idleMessage=Silence..." width="400"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EternalHalve&theme=transparent&hide_border=true" width="400"/>
 </p>
 
