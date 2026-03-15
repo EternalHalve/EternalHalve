@@ -3,9 +3,9 @@
 <p align="center">
     <code>SYSTEM: ACTIVE</code> • <code>LOC: INDONESIA</code> • <code>DEV_MODE: EXPERIMENTAL</code>
 </p>
-
+<br>
 <p align="center">
-    <img src="https://count.getloli.com/get/@EternalHalve?theme=rule34&scale=0.6"/>
+    <img src="https://count.getloli.com/get/@EternalHalve?theme=moebooru&scale=0.8" width="200px"/>
 </p>
 
 ---
@@ -22,10 +22,6 @@
             <a href="https://github.com/EternalHalve/blue-snake"><strong>Blue Snake</strong></a>: 
             Python logic, OOP structures, and Pythonic experiments.
         </li>
-        <li>
-            <a href="https://github.com/EternalHalve/orange-crab"><strong>Orange Crab</strong></a>: 
-            Where I learned the laws of the compiler through Rustlings exercises.
-        </li>
     </ul>
 </div>
 
@@ -33,11 +29,11 @@
 
 ```yml
 Core:
-  - Language: Python, Rust
+  - Language: Python
   - Framework: FastAPI, SQLAlchemy 2.0
 Environment:
   - OS: Linux (Pop!_OS)
-  - Tools: Git, UV, Ruff, Cargo
+  - Tools: Git, UV, Ruff
 ```
 
 ### Beyond the Terminal
