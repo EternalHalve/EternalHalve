@@ -16,7 +16,7 @@
     <ul>
         <li>
             <a href="https://github.com/EternalHalve/blue-protocol"><strong>Blue Protocol</strong></a>: 
-            <code>JWT-secured</code> foraging API. Built for the time of zero-money budgets.
+            JWT-secured foraging API. Built for the time of zero-money budgets.
         </li>
         <li>
             <a href="https://github.com/EternalHalve/blue-snake"><strong>Blue Snake</strong></a>: 
@@ -58,9 +58,4 @@ Games:
 
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EternalHalve&theme=transparent" width="100%"/>
-</p>
-
-<p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EternalHalve&theme=transparent" width="400"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EternalHalve&theme=transparent" width="400"/>
 </p>
